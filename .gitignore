@@ -1,0 +1,10 @@
+# Blocks node_modules in the root or inside ANY subfolder project
+**/node_modules/
+
+# Blocks local development tool settings
+.vscode/
+.idea/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
